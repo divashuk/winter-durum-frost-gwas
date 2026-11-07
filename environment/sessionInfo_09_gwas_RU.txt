@@ -1,0 +1,44 @@
+R version 4.5.3 (2026-03-11)
+Platform: x86_64-conda-linux-gnu
+Running under: Ubuntu 24.04.4 LTS
+
+Matrix products: default
+BLAS/LAPACK: /opt/micromamba/envs/gwas_frost/lib/libopenblasp-r0.3.34.so;  LAPACK version 3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Europe/Moscow
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_4.0.3       data.table_1.18.6.1
+
+loaded via a namespace (and not attached):
+ [1] generics_0.1.4       gplots_3.3.0         genetics_1.3.8.1.3  
+ [4] bitops_1.1-0         KernSmooth_2.23-27   gtools_3.9.5        
+ [7] lattice_0.23-1       bigmemory_4.6.6      lme4_2.0-6          
+[10] digest_0.6.39        magrittr_2.0.5       caTools_1.18.4      
+[13] grid_4.5.3           RColorBrewer_1.1-3   mvtnorm_1.4-2       
+[16] Matrix_1.7-5         ape_5.8-1            survival_3.8-12     
+[19] gridExtra_2.3.1      combinat_0.0-8       bigmemory.sri_0.1.8 
+[22] scales_1.4.0         snpStats_1.60.0      textshaping_1.0.5   
+[25] reformulas_0.4.4     Rdpack_2.6.6         cli_3.6.6           
+[28] rlang_1.3.0          scatterplot3d_0.3-45 rbibutils_2.4.1     
+[31] Biobase_2.70.0       splines_4.5.3        withr_3.0.3         
+[34] tools_4.5.3          parallel_4.5.3       uuid_1.2-2          
+[37] nloptr_2.2.1         minqa_1.2.8          dplyr_1.2.1         
+[40] boot_1.3-32          multtest_2.66.0      BiocGenerics_0.56.0 
+[43] vctrs_0.7.3          R6_2.6.1             stats4_4.5.3        
+[46] lifecycle_1.0.5      MASS_7.3-66          ragg_1.5.2          
+[49] pkgconfig_2.0.3      pillar_1.11.1        gtable_0.3.6        
+[52] glue_1.8.1           Rcpp_1.1.2           systemfonts_1.3.2   
+[55] tibble_3.3.1         tidyselect_1.2.1     farver_2.1.2        
+[58] nlme_3.1-170         labeling_0.4.3       gdata_3.0.1         
+[61] compiler_4.5.3       S7_0.2.2             EMMREML_3.1         
