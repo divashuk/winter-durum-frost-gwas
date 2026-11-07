@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite the archived software version when using this code."
+type: software
+title: "Analysis code for Association Mapping of Frost Tolerance in a Winter Durum Wheat Gene Pool with a Nearly Fixed Fr-A2 Haplotype"
+version: 1.0.0
+date-released: 2026-11-07
+repository-code: "https://github.com/divashuk/winter-durum-frost-gwas"
+authors:
+  - family-names: "Divashuk"
+    given-names: "Mikhail"
+    affiliation: "All-Russian Research Institute of Agricultural Biotechnology, Moscow, Russia"
+  - family-names: "Yanovsky"
+    given-names: "Aleksey"
+    affiliation: "P. P. Lukyanenko National Grain Center, Krasnodar, Russia"
+  - family-names: "Gorskaia"
+    given-names: "Varvara"
+    affiliation: "All-Russian Research Institute of Agricultural Biotechnology, Moscow, Russia"
+  - family-names: "Bespalova"
+    given-names: "Ludmila"
+    affiliation: "P. P. Lukyanenko National Grain Center, Krasnodar, Russia"
+  - family-names: "Ermolaev"
+    given-names: "Aleksey"
+    affiliation: "All-Russian Research Institute of Agricultural Biotechnology, Moscow, Russia"
+  - family-names: "Petrova"
+    given-names: "Kristina"
+    affiliation: "All-Russian Research Institute of Agricultural Biotechnology, Moscow, Russia; National Research Centre “Kurchatov Institute”, Russia"
+  - family-names: "Karlov"
+    given-names: "Gennady"
+    affiliation: "All-Russian Research Institute of Agricultural Biotechnology, Moscow, Russia"
+license: MIT

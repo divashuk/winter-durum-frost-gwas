@@ -1,0 +1,53 @@
+{
+  "title": "Analysis code for Association Mapping of Frost Tolerance in a Winter Durum Wheat Gene Pool with a Nearly Fixed Fr-A2 Haplotype",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "publication_date": "2026-11-07",
+  "creators": [
+    {
+      "name": "Divashuk, Mikhail",
+      "affiliation": "All-Russian Research Institute of Agricultural Biotechnology, Moscow, Russia"
+    },
+    {
+      "name": "Yanovsky, Aleksey",
+      "affiliation": "P. P. Lukyanenko National Grain Center, Krasnodar, Russia"
+    },
+    {
+      "name": "Gorskaia, Varvara",
+      "affiliation": "All-Russian Research Institute of Agricultural Biotechnology, Moscow, Russia"
+    },
+    {
+      "name": "Bespalova, Ludmila",
+      "affiliation": "P. P. Lukyanenko National Grain Center, Krasnodar, Russia"
+    },
+    {
+      "name": "Ermolaev, Aleksey",
+      "affiliation": "All-Russian Research Institute of Agricultural Biotechnology, Moscow, Russia"
+    },
+    {
+      "name": "Petrova, Kristina",
+      "affiliation": "All-Russian Research Institute of Agricultural Biotechnology, Moscow, Russia; National Research Centre “Kurchatov Institute”, Russia"
+    },
+    {
+      "name": "Karlov, Gennady",
+      "affiliation": "All-Russian Research Institute of Agricultural Biotechnology, Moscow, Russia"
+    }
+  ],
+  "description": "<p>Analysis source accompanying the manuscript <em>Association Mapping of Frost Tolerance in a Winter Durum Wheat Gene Pool with a Nearly Fixed Fr-A2 Haplotype</em>.</p><p>The code covers phenotype preparation and BLUEs, genotype QC and imputation, population structure, GWAS and conditional analyses, candidate-gene and sequence comparisons, primer design, protein analyses, and final manuscript figure generation. Version 1.0.0 contains 112 archived analysis scripts plus plotting and path-configuration utilities, instructions, recorded software versions and source checksums. Environment-specific paths were normalized; analytical parameters were retained.</p><p>This is a code-only release. Individual-level phenotypic and genotypic data, association-result tables, genome sequences, model weights and generated outputs are not included. Underlying data and additional analysis outputs are available from the corresponding author upon reasonable request. Summary results are provided in the manuscript and supplementary tables. Some shared scripts include branches used in the wider project; the manuscript concerns the Russian winter durum panel. This archive requires the corresponding input data and external software/resources and is not a one-command workflow.</p><p>Research supported by the Russian Science Foundation, grant 24-16-00274.</p>",
+  "keywords": [
+    "durum wheat",
+    "frost tolerance",
+    "GWAS",
+    "Fr-A2",
+    "candidate genes",
+    "research software"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/divashuk/winter-durum-frost-gwas",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "license": "MIT"
+}
