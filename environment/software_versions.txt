@@ -1,0 +1,13 @@
+# Версии программ (сгенерировано 2026-10-25T02:34:15+03:00)
+OS: Ubuntu 24.04.4 LTS
+bcftools: bcftools 1.24
+htslib/tabix: tabix (htslib) 1.24
+plink2: PLINK v2.0.0-a.7.8 64-bit (19 Sep 2026)
+plink1.9: PLINK v1.9.0 64-bit (27 Sep 2026)
+beagle: beagle-5.4_29Oct24.c8e-0 ; beagle.29Oct24.c8e.jar (version 5.4)
+gemma: GEMMA 0.98.5 (2021-08-25) by Xiang Zhou, Pjotr Prins and team (C) 2012-2021
+java: openjdk version "25.0.2-internal" 2026-01-20
+R: R version 4.5.3 (2026-03-11) -- "Reassured Reassurer"
+vcftools: VCFtools (0.1.17)
+GAPIT: GAPIT.Version="2026.5.19, GAPIT 4.1" (source() из https://zzlab.net/GAPIT/gapit_functions.txt, загружен 2026-10-25; пакет GitHub не загружается из-за зашитого пути автора)
+minimap2: 2.31-r1302
